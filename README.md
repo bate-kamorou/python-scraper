@@ -30,7 +30,7 @@ python scraper.py
 
 ## Output
 
-Scraped data is saved to `books.csv` or `books.json` in the project directory.
+Scraped data is saved to `.csv` or `.json` in the project directory.
 
 ## Legal Notice
 
